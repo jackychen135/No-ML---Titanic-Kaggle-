@@ -1,4 +1,4 @@
-# Titanic-Kaggle-No-ML
+# Titanic Kaggle without Machine Learning
 Tackling the Titanic Kaggle ML problem without using any machine learning 
 
 Examples of logic utilised in this solution includes:
