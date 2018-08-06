@@ -6,3 +6,6 @@ Examples of logic utilised in this solution includes:
 - Establishing arbitary weights to determine what features are a stronger determinant of survivors
 - Clearing out features that generally have nothing to learn from
 - Developing manual algorithms to calculate those weights 
+
+Results:
+Approximately 71% accuracy against kaggle
